@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kaif Ali Khan
-- 👀 I’m interested in coding
+- 👀 DSA/CP/DEV
 - 🌱 I’m currently learning DSA and Web Development
 - 📫 How to reach me kaifalikhan347@gmail.com
 - ⚡ My LinkedIn www.linkedin.com/in/kaifalikhan
