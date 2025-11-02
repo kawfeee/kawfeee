@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaif Ali Khan
 - 👀 DSA/CP/DEV
-- 🌱 I’m currently learning DSA and Web Development
+- 🌱 currently grinding DSA and Web Development
 - 📫 How to reach me kaifalikhan347@gmail.com
 - ⚡ My LinkedIn www.linkedin.com/in/kaifalikhan
 
