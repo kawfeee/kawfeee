@@ -1,89 +1,167 @@
 # 👋 Hi, I'm Kaif Ali Khan
 
-🎓 **3rd Year BE Student (Information Science Engineering)** at Cambridge Institute of Technology, Bengaluru  
-💡 **Software Developer | AI/ML Enthusiast | Full-Stack Web Developer**  
-🏆 **Smart India Hackathon 2025 – Grand Finalist**  
-📊 **CGPA: 9.43**
+🎓 **B.E. Information Science Engineering Student** at Cambridge Institute of Technology, Bengaluru
+💻 **Backend-Focused Full Stack Engineer | AI/ML Enthusiast**
+🏆 **Smart India Hackathon 2025 Grand Finalist**
+🥈 **Samsung Gen AI Hackathon 2025 – 2nd Place**
+📊 **CGPA: 9.12**
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **software developer** with strong foundations in **computer science, AI/ML, and full-stack development**.  
-I enjoy building **real-world products** that combine **clean UI**, **scalable backends**, and **intelligent AI systems**.
+I'm a passionate software developer focused on building **scalable backend systems, AI-powered applications, and full-stack web platforms**.
 
-- 🔍 Interested in **AI, RAG systems, NLP, system design, and scalable web apps**
-- 🧠 Solved **200+ DSA problems** on LeetCode & GeeksforGeeks
-- 🏗️ Love converting ideas into **production-ready applications**
-- 🤝 Open to **internships, research roles, and collaborative projects**
+I enjoy solving complex engineering problems, designing robust APIs, and creating products that combine clean user experiences with intelligent AI capabilities.
+
+* 🔍 Interested in **Backend Engineering, AI/ML, RAG Systems, NLP, and System Design**
+* 🧠 Solved **300+ DSA problems** on LeetCode & GeeksforGeeks
+* ⚡ Strong foundation in **Data Structures, DBMS, Operating Systems, OOP, and Computer Networks**
+* 🤝 Open to **Software Engineering, Backend Development, and AI/ML opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-- **Java, C/C++, Python, JavaScript**
 
-### 🌐 Web Development
-- **React.js, Next.js, Node.js, Express.js**
-- **MongoDB, PostgreSQL, Supabase, Prisma**
-- **Tailwind CSS, Shadcn UI**
-- **Clerk (Auth), UploadThing**
+* Java
+* Python
+* C/C++
+* JavaScript
+* SQL
+
+### ⚙️ Backend Development
+
+* Spring Boot
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+
+### 🗄️ Databases
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* PGVector
+* Supabase
+* Prisma
+
+### 🌐 Frontend Development
+
+* React.js
+* Next.js
+* Tailwind CSS
 
 ### 🤖 AI / Machine Learning
-- **Python (NumPy, Pandas, Matplotlib, Seaborn)**
-- **Scikit-learn, TensorFlow, Keras**
-- **NLP, Embeddings, RAG Pipelines**
-- **Model Evaluation, Feature Engineering**
-- **Hugging Face APIs**
 
-### 🧠 CS Fundamentals
-- Data Structures & Algorithms  
-- Operating Systems, DBMS, Computer Networks  
-- OOP, Computer Architecture, System Design  
+* NumPy
+* Pandas
+* Scikit-learn
+* TensorFlow
+* NLP
+* RAG Pipelines
+* Model Evaluation
 
----
+### 🛠️ Tools & Platforms
 
-## 🧑‍💻 Experience
-
-### 💼 Software Developer Intern – **WOWexp**  
-*Mar 2025 – May 2025*
-
-- Built frontends for **AI Book Maker, Image-to-3D Converter, AI News App**
-- Integrated **Hugging Face APIs**
-- Worked on **image depth estimation & AI pipelines**
-- Collaborated with AI research teams
+* Git & GitHub
+* Postman
+* Linux / Unix
+* Clerk Authentication
 
 ---
 
-### 🔬 Software Developer – **Samsung PRISM (Ongoing)**
+## 💼 Experience
 
-- Designed responsive UI components
-- Integrated APIs with research teams
-- Contributed to ideation & prototyping
+### Software Programmer Apprentice | Lowe's India
+
+📍 Bengaluru, Karnataka
+🗓️ May 2026 – Present
+
+* Developed and maintained scalable backend services and enterprise software modules.
+* Integrated AI-powered features and REST APIs into production applications.
+* Optimized application performance and resolved pipeline issues in Agile environments.
+* Collaborated with cross-functional teams to improve system reliability and efficiency.
+
+---
+
+### SDE Intern | Samsung R&D
+
+📍 Bengaluru, Karnataka
+🗓️ Aug 2025 – Jan 2026
+
+* Developed responsive web applications using React.js, JavaScript, and Tailwind CSS.
+* Integrated APIs and collaborated with research teams for Samsung PRISM projects.
+* Contributed to UI development, prototyping, and system integration.
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Sankalp AI – Automated Proposal Evaluation Platform
+
+**Python • NLP • RAG • PostgreSQL • PGVector**
+
+* Built an AI-powered proposal evaluation system for 500+ R&D submissions.
+* Developed semantic similarity and novelty detection using embeddings and vector databases.
+* Implemented automated scoring pipelines and operational dashboards.
+
+---
+
+### 💬 Chatify – Real-Time Chat Application
+
+**MERN Stack • Socket.io**
+
+* Developed a real-time chat platform supporting concurrent messaging.
+* Implemented low-latency communication using Socket.io.
+* Improved backend reliability through robust error handling and state management.
+
+---
+
+### 📓 Journal App – Backend System
+
+**Spring Boot • Java • JWT • PostgreSQL**
+
+* Built secure RESTful backend services using Spring Boot.
+* Implemented JWT-based authentication and authorization.
+* Designed optimized CRUD operations with PostgreSQL integration.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Smart India Hackathon 2025 – Grand Finalist**
-- 🥈 **2nd Place – Samsung GenAI Hackathon 2025**
-- 📜 Certificate of Merit (9.70 CGPA – 1st Year)
-- 🧠 200+ DSA problems solved
-- 🎯 Organized campus-level coding competition (50+ participants)
+* 🥇 Smart India Hackathon (SIH) 2025 – Grand Finalist
+* 🥈 Samsung Gen AI Hackathon 2025 – 2nd Place
+* 🏅 DevHack 6.0 IIT Dharwad – 5th Place
+* 📜 Certificate of Merit for securing 9.70 CGPA during 1st Year
+* 🧠 Solved 300+ DSA Problems
 
 ---
 
 ## 📜 Certifications
 
-- Introduction to Cybersecurity – **Cisco NetAcad**
-- Java Intermediate – **SoloLearn**
-- AI/ML & Data Science – **Udemy**
-- Data Analytics with Python (Workshop)
+* Java Intermediate – SoloLearn
+* AI/ML & Data Science Bootcamp – Udemy
+* Data Analytics with Python Workshop
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-- 📧 **Email:** kaifalikhan347@gmail.com  
-- 💼 **LinkedIn:** www.linkedin.com/in/kaifalikhan 
+📧 Email: **[kaifalikhan347@gmail.com](mailto:kaifalikhan347@gmail.com)**
+
+💼 LinkedIn: **[www.linkedin.com/in/kaifalikhan](http://www.linkedin.com/in/kaifalikhan)**
+
+🐙 GitHub: **github.com/your-github-username**
+
+💻 Coding Profiles:
+
+* LeetCode
+* GeeksforGeeks
+* HackerRank
+
+---
+
+⭐ *Always excited to build impactful software, collaborate on innovative ideas, and contribute to meaningful engineering challenges.*
