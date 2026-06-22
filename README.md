@@ -23,53 +23,17 @@ I enjoy solving complex engineering problems, designing robust APIs, and creatin
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+| Category          | Technologies                                                                  |
+| ----------------- | ----------------------------------------------------------------------------- |
+| 💻 **Languages**  | Java, Python, C/C++, JavaScript, SQL                                          |
+| ⚙️ **Backend**    | Spring Boot, Node.js, Express.js, REST APIs, JWT Authentication               |
+| 🗄️ **Databases** | PostgreSQL, MySQL, MongoDB, PGVector, Supabase, Prisma                        |
+| 🌐 **Frontend**   | React.js, Next.js, Tailwind CSS                                               |
+| 🤖 **AI / ML**    | NumPy, Pandas, Scikit-learn, TensorFlow, NLP, RAG Pipelines, Model Evaluation |
+| 🛠️ **Tools**     | Git, GitHub, Postman, Linux/Unix, Clerk Authentication                        |
+| 📚 **Core CS**    | DSA, DBMS, Operating Systems, OOP, Computer Networks                          |
+| }                 |                                                                               |
 
-* Java
-* Python
-* C/C++
-* JavaScript
-* SQL
-
-### ⚙️ Backend Development
-
-* Spring Boot
-* Node.js
-* Express.js
-* REST APIs
-* JWT Authentication
-
-### 🗄️ Databases
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* PGVector
-* Supabase
-* Prisma
-
-### 🌐 Frontend Development
-
-* React.js
-* Next.js
-* Tailwind CSS
-
-### 🤖 AI / Machine Learning
-
-* NumPy
-* Pandas
-* Scikit-learn
-* TensorFlow
-* NLP
-* RAG Pipelines
-* Model Evaluation
-
-### 🛠️ Tools & Platforms
-
-* Git & GitHub
-* Postman
-* Linux / Unix
-* Clerk Authentication
 
 ---
 
