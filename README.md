@@ -32,7 +32,6 @@ I enjoy solving complex engineering problems, designing robust APIs, and creatin
 | 🤖 **AI / ML**    | NumPy, Pandas, Scikit-learn, TensorFlow, NLP, RAG Pipelines, Model Evaluation |
 | 🛠️ **Tools**     | Git, GitHub, Postman, Linux/Unix, Clerk Authentication                        |
 | 📚 **Core CS**    | DSA, DBMS, Operating Systems, OOP, Computer Networks                          |
-| }                 |                                                                               |
 
 
 ---
