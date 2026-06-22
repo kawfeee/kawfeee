@@ -150,17 +150,10 @@ I enjoy solving complex engineering problems, designing robust APIs, and creatin
 
 ## 📫 Connect With Me
 
-📧 Email: **[kaifalikhan347@gmail.com](mailto:kaifalikhan347@gmail.com)**
-
-💼 LinkedIn: **[www.linkedin.com/in/kaifalikhan](http://www.linkedin.com/in/kaifalikhan)**
-
-🐙 GitHub: **github.com/your-github-username**
-
-💻 Coding Profiles:
-
-* LeetCode
-* GeeksforGeeks
-* HackerRank
+* 📧 **Email:** [kaifalikhan347@gmail.com](mailto:kaifalikhan347@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/kaifalikhan](https://www.linkedin.com/in/kaifalikhan)
+* 🐙 **GitHub:** [github.com/your-github-username](https://github.com/your-github-username)
+* 💻 **Coding Profiles:** [Codolio](https://codolio.com/profile/kaifalikhan)
 
 ---
 
