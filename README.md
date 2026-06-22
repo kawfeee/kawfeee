@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Kaif Ali Khan
 
-🎓 **B.E. Information Science Engineering Student** at Cambridge Institute of Technology, Bengaluru
-💻 **Backend-Focused Full Stack Engineer | AI/ML Enthusiast**
-🏆 **Smart India Hackathon 2025 Grand Finalist**
-🥈 **Samsung Gen AI Hackathon 2025 – 2nd Place**
-📊 **CGPA: 9.12**
+*🎓 **B.E. Information Science Engineering Student** at Cambridge Institute of Technology, Bengaluru
+*💻 **Backend-Focused Full Stack Engineer | AI/ML Enthusiast**
+*🏆 **Smart India Hackathon 2025 Grand Finalist**
+*🥈 **Samsung Gen AI Hackathon 2025 – 2nd Place**
+*📊 **CGPA: 9.12**
 
 ---
 
